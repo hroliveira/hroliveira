@@ -29,6 +29,16 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <br/>
 </div>
 
+##
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hroliveira/hroliveira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hroliveira/hroliveira/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hroliveira/hroliveira/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=296999&height=120&section=footer"/>
 
 
@@ -38,6 +48,5 @@
   <img src="https://komarev.com/ghpvc/?username=hroliveira&color=006bed" align="right"/>
 </div>
 
-![snake gif](https://github.com/hroliveira/hroliveira/blob/output/github-contribution-grid-snake-dark.svg)
 
  

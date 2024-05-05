@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=296999&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Helinton+Oliveira;)](https://git.io/typing-svg)
 <img align="right" height="75" width="100px" src="https://i0.wp.com/64.media.tumblr.com/e5e825cb34f654fff6fd4cd8d6d36a0a/tumblr_psa69u48Su1vqgkxmo3_640.gif"  />
 <h3> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> &nbsp;About me: 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> &nbsp;Sobre mim: 
 </h3>
 </br>
 

@@ -17,8 +17,10 @@
   </div>
   
   ## 📜 Estatísticas
-  ![Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=hroliveira&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hroliveira&hide_progress=true)
+ <div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hroliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hroliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="150" alt="languages graph" />
+</div>
 
   ## 💻Tecnologias
 <div style="display: inline_block"><br/>
@@ -28,16 +30,6 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <br/>
 </div>
-
-##
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hroliveira/hroliveira/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hroliveira/hroliveira/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hroliveira/hroliveira/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=296999&height=120&section=footer"/>
 
@@ -49,4 +41,11 @@
 </div>
 
 
- 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hroliveira/hroliveira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hroliveira/hroliveira/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hroliveira/hroliveira/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>

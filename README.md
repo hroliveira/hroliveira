@@ -38,5 +38,6 @@
   <img src="https://komarev.com/ghpvc/?username=hroliveira&color=006bed" align="right"/>
 </div>
 
+![snake gif](https://github.com/hroliveira/hroliveira/blob/output/github-contribution-grid-snake-dark.svg)
 
  

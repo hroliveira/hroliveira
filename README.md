@@ -7,7 +7,7 @@
 </h3>
 </br>
 
-##### Entusiasta da tecnologia, constantemente em busca de aprimoramento de conhecimento e ampliação de rede de amigos.
+### Entusiasta da tecnologia, constantemente em busca de aprimoramento de conhecimento e ampliação de rede de amigos.
 
 ## 🌐 Redes Socias
 <div align="center">

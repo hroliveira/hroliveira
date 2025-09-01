@@ -39,7 +39,7 @@
   <a href="README.md"><img src="https://badgen.net/badge/ /Português/black?labelColor=green" align="left"/></a>
   <img src="https://komarev.com/ghpvc/?username=hroliveira&color=006bed" align="right"/>
 
-  <a href = "https://hroliveira.github.io/NetflixLandingPage/index.html#" ></a>
+  <a href ="https://hroliveira.github.io/NetflixLandingPage/index.html#" >page</a>
 </div>
 
 
